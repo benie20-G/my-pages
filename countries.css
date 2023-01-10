@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    background-size: cover;
+}
+.africa-bg{
+    background-color: red;
+    color: white;
+}
+.europe-bg{
+    background-color: green;
+    color: white;
+}
+.asia-bg{
+    background-color:blue ;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
